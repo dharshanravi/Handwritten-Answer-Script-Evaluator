@@ -1,0 +1,1 @@
+Machine learning is a type of artificial intelligence that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values. Using algorithms it imitates the way how we human beings learn.
