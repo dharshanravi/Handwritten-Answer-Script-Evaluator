@@ -1,1 +1,0 @@
-Python is easy to understand. Python comes with a large number of libraries. Python allows easy and powerful implementation. Friendly syntax and human-level readability. Python provides broad community support. 

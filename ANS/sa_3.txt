@@ -1,3 +1,0 @@
-Python is easily understandable. it has large number of libraries. it is powerful
-and easy to implement. it has user friendly syntax. it provides huge community
-support.
